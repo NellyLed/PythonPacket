@@ -1,0 +1,3 @@
+[console_scripts]
+idnfilter = ds_idnfilter.idn_filter:main
+

@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: package
+Version: 0.0.1
+Summary: Дата создания:11.12.2021
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: Содержит 6 модельных функций, файл для прочтения и с файл со списком пакетов.Имеются операции
+        сложения,вычитания,умножения,деления,вывода словочосетания и нахождение числа Фиббоначи. 
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
